@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to accounts microservice related production APIs "
+  message: "Welcome to accounts microservice related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}9bb0f97060ddc7d6b07fa43f4ad3afd12fda0fb77a69f66f7be43a45186bb5e58f1b570e7d1a7f04437a0f35a0b0d73a"
@@ -10,5 +10,6 @@ accounts:
     - (453) 392-4829
 
     - (236) 203-0384
+
 
 
